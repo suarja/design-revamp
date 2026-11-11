@@ -1,0 +1,13 @@
+{
+  "name": "design-revamp",
+  "owner": {
+    "name": "suarja"
+  },
+  "plugins": [
+    {
+      "name": "design-revamp",
+      "version": "0.1.0",
+      "source": "./plugins/design-revamp"
+    }
+  ]
+}

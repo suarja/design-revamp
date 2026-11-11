@@ -1,0 +1,21 @@
+{
+  "name": "design-revamp",
+  "owner": {
+    "name": "suarja"
+  },
+  "plugins": [
+    {
+      "name": "design-revamp",
+      "version": "0.1.0",
+      "source": {
+        "source": "local",
+        "path": "./plugins/design-revamp"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
